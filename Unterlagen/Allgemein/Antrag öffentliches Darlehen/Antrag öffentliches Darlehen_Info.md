@@ -1,0 +1,34 @@
+## Antrag öffentliches Darlehen 
+ 
+**Im Dokument enthaltene Informationen**
+- Persönliche Infos
+    -  Name
+    -  Vorname
+    -  Adresse
+    -  Geburtsdatum
+    -  Steuer-ID
+    -  Staatsbürgerschaft
+    -  Familienstand
+    -  Kinder (ja/nein)
+        -  Anzahl
+- Einkünfte
+    -  aus selbständiger Arbeit
+    -  aus Vermietung und Verpachtung
+    -  sonstige Einkünfte
+- Vermögen
+    -  Sparguthaben
+    -  Bausparguthaben
+    -  Lebensversicherung
+    -  Weitere Immobilien
+-  Objektangaben
+    -  Adresse
+    -  Grundstücksgröße
+    -  Erbbaurecht (ja/nein)
+    -  Verwendungszweck
+    -  Objektart
+    -  Baujahr
+    -  Bauart
+    -  KFZ-Stellplätze
+        -  Art
+        -  Anzahl
+    -  Wohnfläche

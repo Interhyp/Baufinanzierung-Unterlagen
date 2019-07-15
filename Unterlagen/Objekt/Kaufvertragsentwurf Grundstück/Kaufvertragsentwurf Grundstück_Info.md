@@ -1,0 +1,32 @@
+## Kaufvertragsentwurf Grundstück 
+ 
+**Im Dokument enthaltene Informationen**
+- Persönliche Infos
+    -  Name
+        -  Ggf. Geburtsname
+    -  Vorname
+    -  Adresse
+    -  Geburtsdatum
+    -  Staatsbürgerschaft
+    -  Familienstatus
+- Grundstück
+    -  Adresse
+    -  Grundbuchdaten
+        -  Amtsgericht
+        -  Band
+        -  Blatt
+        -  Flurnummer
+        -  Flurstücksnummer
+        -  Lasten und Beschränkungen Abteilung II
+        -  Lasten und Beschränkungen Abteilung III
+    -  Nutzungsart des Bodens
+    -  baurechtliche Zustand
+        -  bebaut
+        - unbebaut
+- Kaufpreis
+    -  Höhe
+    -  Fälligkeit
+    -  Zahlungsplan
+- Käufer
+    -  Persönliche Infos (s.o)
+    -  Eigentumsanteil
