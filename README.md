@@ -15,6 +15,7 @@ Die Unterlagen sind nach folgender Struktur geordnet:
 ## Contributing
 Änderungen können durch ein Pull Request angefragt werden, das innerhalb von 4 Wochen bearbeitet wird.
 
+
 Weitere Informationen zu unserem Verhaltenskodex und zum Verfahren bezüglich der Einreichung von Pull-Request, befinden sich im Dokument [CONTRIBUTING.md](https://github.com/mjelasity/Baufinanzierung-Unterlagen/blob/master/CONTRIBUTING.md "Contributing").
 
 ## Autoren
